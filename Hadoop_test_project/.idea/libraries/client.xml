@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="client">
+    <CLASSES>
+      <root url="file:///opt/hadoop-3.2.2/share/hadoop/client" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///opt/hadoop-3.2.2/share/hadoop/client" recursive="false" />
+  </library>
+</component>
